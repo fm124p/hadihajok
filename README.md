@@ -1,1 +1,3 @@
 # hadihajok
+
+Létrejött a repository
